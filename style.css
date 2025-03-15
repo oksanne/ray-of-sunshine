@@ -476,6 +476,7 @@ footer h6 {
     position:absolute;
     top:2128px;
     max-width: 1920px;
+    transform: scale(-1, 1);
 }
 #holm3 {
     position: absolute;
@@ -490,7 +491,7 @@ footer h6 {
 }
 #holm4 {
     position: absolute;
-    top: 4540px;
+    top: 4542px;
     width: 1920px;
 }
 
